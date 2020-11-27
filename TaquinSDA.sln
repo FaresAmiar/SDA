@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sprint 1", "Sprint 1\Sprint 1.vcxproj", "{6070467C-75A0-487E-BEF8-4DAFE057CBAA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaquinSprint4", "TaquinSprint4\TaquinSprint4.vcxproj", "{E20A4955-F47B-45E2-9596-B5072E2FFFE5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaquinSprint5", "TaquinSprint5\TaquinSprint5.vcxproj", "{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaquinSprint3", "TaquinSprint3\TaquinSprint3.vcxproj", "{2B9A07F6-F950-437A-B391-D858F740736C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaquinSprint2", "TaquinSprint2\TaquinSprint2.vcxproj", "{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Debug|x64.ActiveCfg = Debug|x64
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Debug|x64.Build.0 = Debug|x64
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Debug|x86.Build.0 = Debug|Win32
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Release|x64.ActiveCfg = Release|x64
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Release|x64.Build.0 = Release|x64
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Release|x86.ActiveCfg = Release|Win32
+		{6070467C-75A0-487E-BEF8-4DAFE057CBAA}.Release|x86.Build.0 = Release|Win32
+		{E20A4955-F47B-45E2-9596-B5072E2FFFE5}.Debug|x64.ActiveCfg = Debug|Win32
+		{E20A4955-F47B-45E2-9596-B5072E2FFFE5}.Debug|x86.ActiveCfg = Debug|Win32
+		{E20A4955-F47B-45E2-9596-B5072E2FFFE5}.Debug|x86.Build.0 = Debug|Win32
+		{E20A4955-F47B-45E2-9596-B5072E2FFFE5}.Release|x64.ActiveCfg = Release|Win32
+		{E20A4955-F47B-45E2-9596-B5072E2FFFE5}.Release|x86.ActiveCfg = Release|Win32
+		{E20A4955-F47B-45E2-9596-B5072E2FFFE5}.Release|x86.Build.0 = Release|Win32
+		{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}.Debug|x64.ActiveCfg = Debug|Win32
+		{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}.Debug|x86.ActiveCfg = Debug|Win32
+		{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}.Debug|x86.Build.0 = Debug|Win32
+		{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}.Release|x64.ActiveCfg = Release|Win32
+		{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}.Release|x86.ActiveCfg = Release|Win32
+		{21A0D2EC-AE70-4EB8-81B6-5997BF0F5D82}.Release|x86.Build.0 = Release|Win32
+		{2B9A07F6-F950-437A-B391-D858F740736C}.Debug|x64.ActiveCfg = Debug|Win32
+		{2B9A07F6-F950-437A-B391-D858F740736C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B9A07F6-F950-437A-B391-D858F740736C}.Debug|x86.Build.0 = Debug|Win32
+		{2B9A07F6-F950-437A-B391-D858F740736C}.Release|x64.ActiveCfg = Release|Win32
+		{2B9A07F6-F950-437A-B391-D858F740736C}.Release|x86.ActiveCfg = Release|Win32
+		{2B9A07F6-F950-437A-B391-D858F740736C}.Release|x86.Build.0 = Release|Win32
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Debug|x64.ActiveCfg = Debug|x64
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Debug|x64.Build.0 = Debug|x64
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Debug|x86.Build.0 = Debug|Win32
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Release|x64.ActiveCfg = Release|x64
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Release|x64.Build.0 = Release|x64
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Release|x86.ActiveCfg = Release|Win32
+		{A2FCE13B-D15C-445A-B5A3-C4C4ED9641A3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5C29F7-8FDA-4943-8C70-B319E451FC0D}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

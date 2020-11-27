@@ -1,0 +1,28 @@
+Damier : 2 lignes, 3 colonnes
+Iteration 0
+*** LEE - long : 0
+
+*** LEAE - long : 1
+  2  #  4
+  5  1  3
+Fin iteration 0
+
+
+Iteration 1
+*** LEE - long : 1
+  2  #  4
+  5  1  3
+
+*** LEAE - long : 3
+EST
+  2  4  #
+  5  1  3
+SUD
+  2  1  4
+  5  #  3
+OUEST
+  #  2  4
+  5  1  3
+Fin iteration 1
+
+

@@ -1,0 +1,19 @@
+Damier : 2 lignes, 3 colonnes
+Solution en 5 mouvements
+  2  #  4
+  5  1  3
+SUD
+  2  1  4
+  5  #  3
+EST
+  2  1  4
+  5  3  #
+NORD
+  2  1  #
+  5  3  4
+OUEST
+  2  #  1
+  5  3  4
+SUD
+  2  3  1
+  5  #  4
